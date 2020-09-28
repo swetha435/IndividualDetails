@@ -1,0 +1,39 @@
+{
+
+  "posts": [
+
+    {
+    "Id": 1,
+    "FirstName": "Jerry",
+    "LastName" "Test1",
+    "Address1": "101 Washington St",
+    "City" : "Santa fe",
+    "State" : "New Mexico"
+  },
+  {
+    "Id": 2,
+    "FirstName": "John",
+    "LastName" "Test2",
+    "Address1": "101 Washington St",
+    "City" : "Santa fe",
+    "State" : "New Mexico"
+  },
+  {
+    "Id": 3,
+    "FirstName": "Jim",
+    "LastName" "Test3",
+    "Address1": "101 Washington St",
+    "City" : "Santa fe",
+    "State" : "New Mexico"
+  },
+
+
+  ],
+
+  "profile": {
+
+    "name": "typicode"
+
+  }
+
+}
